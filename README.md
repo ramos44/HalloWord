@@ -1,2 +1,3 @@
 # HalloWord
-HalloWordProgramm
+HalloWordProgram. 
+lesen
